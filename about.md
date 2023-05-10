@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Fauzan Pasaribu and I will be studying at Harvard University this upcoming Fall.
 
 ### Contact me
 
