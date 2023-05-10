@@ -12,4 +12,4 @@ My name is Fauzan Pasaribu and I will be studying at Harvard University this upc
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fauzanfarispasaribu@gmail.com](mailto:fauzanfarispasaribu@gmail.com)
